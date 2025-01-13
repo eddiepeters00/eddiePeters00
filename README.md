@@ -2,7 +2,7 @@
 
 I am a passionate fullstack developer who loves to create dynamic websites and create robust systems.
 
-![eddiepeters00's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![eddiepeters00's Stats](https://github-readme-stats.vercel.app/api?username=eddiepeters00&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ## Tech Stack

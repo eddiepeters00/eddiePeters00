@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Eddie Peters! 👋
 
-<!--
-**eddiepeters00/eddiePeters00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate fullstack developer who loves to create dynamic websites and create robust systems.
 
-Here are some ideas to get you started:
+![eddiepeters00's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,nodejs,react,nextjs,cs,dotnet,java,mongodb,mysql)](https://skillicons.dev)
+
+
+## 📬 Get in Touch
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/eddiepeters-dev/)
+
+Thanks for stopping by! Let's connect and explore the world of technology together. 🚀
